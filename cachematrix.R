@@ -2,9 +2,14 @@
 ## functions do
 
 ## Write a short comment describing this function
+## Added comments
 
 makeCacheMatrix <- function(x = matrix()) {
 
+}
+
+makeCacheMatrix <- function(x = matrix()) {
+  
 }
 
 
